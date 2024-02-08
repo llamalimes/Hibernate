@@ -21,6 +21,7 @@
 
         <!--   Mapping entity file -->
         <mapping class="org.jonlima.model.User"/>
+        <mapping class="org.jonlima.model.Department"/>
 
     </session-factory>
 </hibernate-configuration>

@@ -16,7 +16,7 @@ public class UserController {
 
         //updateUser(session,3);
 
-        deleteUser(session,4);
+        //deleteUser(session,4);
 
     }
 
